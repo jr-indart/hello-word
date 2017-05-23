@@ -2,7 +2,7 @@
 
 Hello there!
 
-I am IT Manager with some experience in web development and looking forward to learn more about web technologies.
+I am IT Manager and web developer. I'm looking forward to learn more about web technologies.
 
 Cheers,
 
